@@ -33,6 +33,11 @@ The eCommerce App is built using the Flutter framework, offering cross-platform 
 4. **Payment Integration**: Integrate payment gateways for seamless checkout experiences.
 5. **Order History**: Enable users to view their past orders and order details.
 
+## Video
+
+![Video](screenshots/video.gif)
+
+
 ## Screenshots
 
 ![Screenshot 1](screenshots/image1.jpg)
